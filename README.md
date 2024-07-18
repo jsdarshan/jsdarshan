@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsdarshan
 - 🌱 I’m currently learning Computer Scinece and Engineering 
-- 📫 How to reach me jsdarshan1760@gmail.com
+- 📫 How to reach me jsdarshan2003@gmail.com
 
 <!---
 jsdarshan/jsdarshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
